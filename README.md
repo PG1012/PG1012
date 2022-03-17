@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PG1012
-- 👀 I’m interested in ... applying learnt skills
+- 👀 I’m interested in ... Artificial Intelligence &Data science
 - 🌱 I’m currently learning ... Java, Python
 - 💞️ I’m looking to collaborate on ... Anything cool
 
